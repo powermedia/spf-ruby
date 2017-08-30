@@ -60,7 +60,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<jeweler>, ["~> 1.8"])
     end
   else
-    s.add_dependency(%q<ruby-ip>, ["~> 0.9.1"])
+    s.add_dependency(%q<ruby-ip>, ["~> 0.9.3"])
     s.add_dependency(%q<rspec>, ["~> 2.9"])
     s.add_dependency(%q<rdoc>, ["~> 3"])
     s.add_dependency(%q<bundler>, ["~> 1.2"])
