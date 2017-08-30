@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem "ruby-ip", "~> 0.9.1"
+gem "ruby-ip", "~> 0.9.1", :git => 'https://github.com/powermedia/ruby-ip.git'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
